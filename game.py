@@ -112,3 +112,4 @@ if game_over:
     pygame.display.update()
     pygame.time.wait(2000)
 pygame.quit()
+
